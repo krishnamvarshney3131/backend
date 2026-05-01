@@ -1,0 +1,1 @@
+const myInfo=require("myInfo.json");
